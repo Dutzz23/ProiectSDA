@@ -1,0 +1,5 @@
+Big Data Analytics|Karen Quinn|2020|Understanding the power and challenges of big data analytics in modern business.|false|
+Internet of Things (IoT) Security|Leo Ortiz|2019|Addressing security concerns in the rapidly growing field of IoT.|true|http://research-link9.com
+Advances in Robotics|Mia Turner|2021|The latest technological advances in the field of robotics.|true|http://research-link10.com
+Natural Language Processing|Nolan Beck|2018|Exploring the complexities of language processing by machines.|false|
+Computer Vision in Autonomous Vehicles|Olivia Kane|2020|Analyzing the role of computer vision in the development of autonomous vehicles.|true|http://research-link11.com
